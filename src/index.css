@@ -1,0 +1,12 @@
+:root {
+  --bg-color: #F2EAE0;
+  --mint: #d1e5ea;
+  --lavender: #BDA6CE;
+  --deep-purple: #9B8EC7;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: var(--bg-color);
+}
